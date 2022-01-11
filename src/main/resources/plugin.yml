@@ -4,6 +4,10 @@ author: whes1015
 main: main.main
 
 commands:
+  fc:
+    description: 控制 ExpTech 插件
+    usage: /fc <args>
+    permission: exptech.admin
   cam:
     description: 自由視角
     usage: /cam
