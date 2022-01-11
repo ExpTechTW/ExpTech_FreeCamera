@@ -22,6 +22,7 @@
 - 此插件依賴 [ExpTech_Core](https://github.com/ExpTechTW/ExpTech_Core)
 - 這是一個讓 Geyser 玩家也可以擁有類似 自由視角 功能的插件
 - Java 玩家 也可以不安裝模組擁有 自由視角 功能
+- [範例影像](https://youtu.be/15sVq2vWlwo)
 # 貢獻者
  - 程式開發
    - whes1015
