@@ -1,0 +1,9 @@
+name: ExpTech_FreeCamera
+version: 22w03
+author: whes1015
+main: main.main
+
+commands:
+  cam:
+    description: 自由視角
+    usage: /cam
